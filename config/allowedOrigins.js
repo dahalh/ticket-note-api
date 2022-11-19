@@ -1,6 +1,5 @@
 const allowedOrigins = [
-  // "http://localhost:3000",
-  "https://htechnotes.onrender.com",
-];
+    'https://technotes.onrender.com'
+]
 
-module.exports = allowedOrigins;
+module.exports = allowedOrigins
